@@ -27,7 +27,7 @@
 ;;; Please be sure to first load 'trs2-impl.scm' before loading this
 ;;; file.
 
-
+#lang racket
 
 ; Helper definitions from Chapters 2 and 4.
 (defrel (nullo x)

@@ -17,6 +17,8 @@
 
 ;;; Here are the key parts of Chapter 10
 
+#lang racket
+
 (define var (lambda (x) (vector x)))
 (define var? (lambda (x) (vector? x)))
 
